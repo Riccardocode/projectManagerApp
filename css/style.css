@@ -55,3 +55,19 @@ a, a:hover {
     font-family:serif;
     font-style:italic
 }
+
+.buttonNav {
+    display: inline-block;
+    float:right;
+    text-align: right;
+}
+
+/* Align button center on extra small screens */
+@media (max-width: 575px) {
+    .buttonNav {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+}
