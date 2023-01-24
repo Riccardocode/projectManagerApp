@@ -60,7 +60,7 @@ a, a:hover {
     display: inline;
 }
 .buttonNav {
-    display: inline-block;
+    
     float:inline-end;
     text-align: right;
 }
