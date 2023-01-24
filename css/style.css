@@ -17,14 +17,14 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient(#ddbea9, #ddbea9);
     padding: 20px 0;
 }
 
 .jumbotron {
     margin:0;
     padding: 10px;
-    background-image: linear-gradient(to right, #b0b675, #c0c772, #CAD36F);
+    background-color:#B1D4E0;
     color: white;
 }
 
@@ -35,7 +35,7 @@ header h2 {
 }
 
 .navbar{
-    background-color:#B1D4E0;
+    background-color:#ddbea9;
 }
 a, a:hover {
     color: inherit;
@@ -48,7 +48,7 @@ a, a:hover {
     border:solid #5637DD;
 }
 .sep{
-    border: 2px solid #c8ed98;
+    border: 2px solid #6b705c;
 }
 .nomeApp{
     color:#0C2D48;
