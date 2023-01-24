@@ -56,9 +56,12 @@ a, a:hover {
     font-style:italic
 }
 
+.logoNav{
+    display: inline;
+}
 .buttonNav {
     display: inline-block;
-    float:right;
+    float:inline-end;
     text-align: right;
 }
 
@@ -69,5 +72,10 @@ a, a:hover {
         margin: 0 auto;
         text-align: center;
         float: none;
+    }
+    .logoNav{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
     }
 }
