@@ -2,6 +2,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
+    background: #f0f4fd;
 }
 
 h1, h2, h3 {
@@ -17,7 +18,7 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(#ddbea9, #ddbea9);
+    background-image: linear-gradient(#d0d0d0, #d0d0d0);
     padding: 20px 0;
 }
 
@@ -35,7 +36,7 @@ header h2 {
 }
 
 .navbar{
-    background-color:#ddbea9;
+    background-color:#d0d0d0;
 }
 a, a:hover {
     color: inherit;
