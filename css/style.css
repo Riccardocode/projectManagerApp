@@ -18,7 +18,7 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(#d0d0d0, #d0d0d0);
+    background-image: whitesmoke;
     padding: 20px 0;
 }
 
@@ -36,7 +36,7 @@ header h2 {
 }
 
 .navbar{
-    background-color:#d0d0d0;
+    background-color:whitesmoke;
 }
 a, a:hover {
     color: inherit;
