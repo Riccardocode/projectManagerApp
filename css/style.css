@@ -44,9 +44,13 @@ a, a:hover {
   }
 .carousel-caption{
     background-color:rgba(0,0,0,0.5);
+    
+    
+    
+
 }
 .carousel{
-    border:solid #5637DD;
+    border:solid black;
 }
 .sep{
     border: 2px solid #6b705c;
@@ -64,6 +68,9 @@ a, a:hover {
     
     float:inline-end;
     text-align: right;
+}
+.shift50{
+    transform: translateY(-80%);
 }
 
 /* Align button center on extra small screens */
